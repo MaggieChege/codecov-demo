@@ -157,7 +157,6 @@ prompt_toolkit==3.0.45
 proto-plus==1.23.0
 protobuf==4.25.3
 psutil==5.9.8
-psycopg @ https://github.com/psycopg/psycopg/archive/master.zip#sha256=631d49d4a306f640b5c86fc63489d61442b34cdf4f15b91634ea9346265a2525&subdirectory=psycopg
 psycopg2==2.9.9
 psycopg2-binary==2.9.9
 ptyprocess==0.7.0
